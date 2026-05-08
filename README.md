@@ -82,3 +82,9 @@ The "Emergent View" is unique because it makes complex, correlated market behavi
 ## 📜 License
 
 This project is open-source and available for personal and educational use. Please see the `LICENSE` file for more details.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
